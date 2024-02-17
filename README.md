@@ -6,8 +6,6 @@
 
 ## Licence
 
- This project has The MIT License (MIT) Copyright (c) 2024, M1K3DEV23
-
-
+This project has The MIT License (MIT) Copyright (c) 2024, M1K3DEV23
 
 ## Directories Distribution
